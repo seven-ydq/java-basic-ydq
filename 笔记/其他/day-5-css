@@ -1,0 +1,7 @@
+<p style="font-size: 100px; color:red">我是个茶壶</p>
+key="value"：键值对
+em=16px
+
+HTML中<body>的margin（外边距）:A(上)  B(右)  C(下)  D(左)
+
+HTML中<body>的padding（内边距）:A(上)  B(右)  C(下)  D(左)

@@ -1,0 +1,59 @@
+1、SQL题目
+	教师表，学生表，成绩表，课程表
+2. AJAX
+	用到什么技术？
+3.JQUERY
+	如何定义一个不能改变的常量？
+	选择器？
+	获取所有表单控件的值
+4.后端
+	分页？
+
+5,mybatis  
+  # vs $
+  1:1  1:n
+
+猴子吃桃子，
+101-200之内素数
+jvm原理
+&与&&    |与||区别
+抽象类和接口的区别
+
+抽象类可以继承实体类  可以， 实现接口   可以
+
+jsp9个隐士对象
+
+mysql分页
+
+位运算（&  |  ^）与逻辑运算（&&  ||）的区别
+
+
+http://learn.tsinghua.edu.cn/kejian/data/77130/138627/html-chunk/ch16s01.html
+
+
+http://www.w3cschool.cn/weixinapp/   微信小程序
+
+http://www.w3cschool.cn/
+
+
+http://www.cnblogs.com/schaepher/p/5561193.html    github
+
+http://jingyan.baidu.com/article/f7ff0bfc7181492e27bb1360.html
+
+https://git-for-windows.github.io/
+
+https://guides.github.com/activities/hello-world/
+
+https://git-scm.com/book/en/v2
+
+http://www.360doc.com/content/14/0827/14/281812_405100575.shtml
+
+http://www.cnblogs.com/diligenceday/p/4750562.html
+
+https://github.com/raky168/train
+
+http://www.cnblogs.com/paul8339/p/5885034.html
+
+http://www.cnblogs.com/God-/p/5556531.html
+
+http://www.cnblogs.com/jack204/archive/2012/10/29/2745150.html
