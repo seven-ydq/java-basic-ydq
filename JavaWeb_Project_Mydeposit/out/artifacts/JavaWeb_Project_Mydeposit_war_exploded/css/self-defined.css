@@ -1,0 +1,17 @@
+.row-margin-bottom{
+	margin-bottom: 15px;
+}
+.row-margin-top{
+	margin-top: 15px;
+}
+header{
+	background-color: white;
+	color: #463265;
+}
+.bgcolorWhite{
+	background-color: white;
+}
+a.right{
+	text-align: right;
+	vertical-align: right!important;
+}
